@@ -23,11 +23,13 @@ Upload these projects to your google drive, and then follow the instructions tha
 
 ## Architecture
 ![alt text](https://github.com/haidera123/VQA-Disease-Detection/blob/Code/images/Architecture.png?raw=true)
+
 ## Results:
-![alt text](https://github.com/uakarsh/med-vqa/blob/main/results/Screenshot%202021-04-28%20115653.jpg?raw=true)
-![alt text](https://github.com/uakarsh/med-vqa/blob/main/results/Screenshot%202021-04-28%20115717.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/haidera123/VQA-Disease-Detection/Code/images/model%20performance.png?raw=true)
+![alt text](https://raw.githubusercontent.com/haidera123/VQA-Disease-Detection/Code/images/acc_loss_val.png?raw=true)
 
-
+## Examples:
+![alt text](https://raw.githubusercontent.com/haidera123/VQA-Disease-Detection/Code/images/results.png?raw=true)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
