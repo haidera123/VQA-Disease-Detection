@@ -31,17 +31,3 @@ Upload these projects to your google drive, and then follow the instructions tha
 ## Examples:
 ![alt text](https://raw.githubusercontent.com/haidera123/VQA-Disease-Detection/Code/images/results.png?raw=true)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uakarsh)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
-
-[website]: https://uakarsh.github.io/AkarshU
-[twitter]: https://twitter.com/akarsh1_u
-[youtube]: https://www.youtube.com/channel/UCvHy0oE1PUkGFjK_pWCajmQ
-[instagram]: https://www.instagram.com/toforaeka/?hl=en
-[linkedin]: https://www.linkedin.com/in/akarsh-upadhyay-50ba7518b/
-[kaggle]: https://www.kaggle.com/akarshu121
