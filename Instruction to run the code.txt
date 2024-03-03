@@ -1,0 +1,7 @@
+Instruction to run the code:
+
+Download the google new vector word2vec.
+Install all dependencies by pip
+Run the ipynb file in colab, jupyter note book or vs code.
+
+--------------------------------------------------------------------------
